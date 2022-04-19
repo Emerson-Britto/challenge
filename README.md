@@ -7,7 +7,6 @@
 <div>
   <h2>query-api (port: 4088)</h2>
   <p><strong>(GET) /balance/[ id ]</strong> => Obtem o saldo total, referente ao id;</p>
-  <p><strong>(POST) /balance/[ id ]</strong> => Recalcula o saldo total (baseado no histórico de credit e debit), referente ao id;</p>
 </div>
 
 <div>
